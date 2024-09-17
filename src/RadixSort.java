@@ -59,7 +59,7 @@ public class RadixSort {
 
     public static void main(String[] args) {
         // Declaración e inicialización del arreglo
-        int[] arr = {170, 45, 75, 90, 802, 24, 2, 66};
+        int[] arr = {267, 33, 85, 99, 952, 14, 1, 80};
 
         // Mostrar el arreglo antes de ordenar
         System.out.println("Arreglo antes del ordenamiento: " + Arrays.toString(arr));
